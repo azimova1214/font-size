@@ -1,0 +1,39 @@
+.navbar{
+background-color: darkgray;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 5px;
+}
+
+.navbar_a{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.box{
+    width: 300px;
+    text-align: center;
+}
+.box img{
+    width: 300px;
+}
+
+.block{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 70px;
+    width: 1050px;
+    margin: 10px auto;
+}
+
+h1{
+    text-align: center;
+}
